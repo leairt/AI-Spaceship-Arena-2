@@ -1,0 +1,73 @@
+INFO: Starting simulation ...
+INFO: 
+Round 1 / 6
+In state
+_ _ _ _ _ _ _ _ _ _ A B
+_ _ _ _ _ _ _ _ _ 0 C _
+_ _ _ _ _ _ _ _ _ 0 _ _
+agent A chose action ((0, 10), (0, 0)) from actions [((0, 10), (0, 0)), ((0, 10), (0, 9)), ((0, 10), (0, 10))]
+Think time was 0.50 seconds.
+
+INFO: 
+Round 1 / 6
+In state
+A a a a a a a a a a a B
+_ _ _ _ _ _ _ _ _ 0 C _
+_ _ _ _ _ _ _ _ _ 0 _ _
+agent B chose action ((0, 11), (2, 11)) from actions [((0, 11), (2, 11)), ((0, 11), (0, 1)), ((0, 11), (1, 11)), ((0, 11), (0, 10)), ((0, 11), (0, 11))]
+Think time was 0.26 seconds.
+
+INFO: 
+Round 1 / 6
+In state
+A a a a a a a a a a a b
+_ _ _ _ _ _ _ _ _ 0 C b
+_ _ _ _ _ _ _ _ _ 0 _ B
+agent C chose action ((1, 10), (1, 10)) from actions [((1, 10), (0, 10)), ((1, 10), (1, 11)), ((1, 10), (2, 10)), ((1, 10), (1, 10))]
+Think time was 6.77 seconds.
+
+INFO: 
+Round 2 / 6
+In state
+A a a a a a a a a a a b
+_ _ _ _ _ _ _ _ _ 0 C b
+_ _ _ _ _ _ _ _ _ 0 _ B
+agent A chose action ((0, 0), (2, 0)) from actions [((0, 0), (0, 11)), ((0, 0), (2, 0)), ((0, 0), (0, 1)), ((0, 0), (1, 0)), ((0, 0), (0, 0))]
+Think time was 0.50 seconds.
+
+INFO: 
+Round 2 / 6
+In state
+a a a a a a a a a a a b
+a _ _ _ _ _ _ _ _ 0 C b
+A _ _ _ _ _ _ _ _ 0 _ B
+agent B chose action ((2, 11), (2, 11)) from actions [((2, 11), (0, 11)), ((2, 11), (2, 10)), ((2, 11), (1, 11)), ((2, 11), (2, 11))]
+Think time was 0.34 seconds.
+
+INFO: 
+Round 2 / 6
+In state
+a a a a a a a a a a a b
+a _ _ _ _ _ _ _ _ 0 C b
+A _ _ _ _ _ _ _ _ 0 _ B
+agent C chose action ((1, 10), (0, 10)) from actions [((1, 10), (0, 10)), ((1, 10), (1, 11)), ((1, 10), (2, 10)), ((1, 10), (1, 10))]
+Think time was 9.03 seconds.
+
+INFO: 
+Round 3 / 6
+In state
+a a a a a a a a a a C b
+a _ _ _ _ _ _ _ _ 0 c b
+A _ _ _ _ _ _ _ _ 0 _ B
+agent A chose action ((2, 0), (2, 8)) from actions [((2, 0), (0, 0)), ((2, 0), (2, 8)), ((2, 0), (1, 0)), ((2, 0), (2, 1)), ((2, 0), (2, 0))]
+Think time was 0.50 seconds.
+
+INFO: 
+Round 3 / 6
+In state
+a a a a a a a a a a C b
+a _ _ _ _ _ _ _ _ 0 c b
+a a a a a a a a A 0 _ B
+agent B chose action ((2, 11), (1, 11)) from actions [((2, 11), (0, 11)), ((2, 11), (2, 10)), ((2, 11), (1, 11)), ((2, 11), (2, 11))]
+Think time was 0.39 seconds.
+

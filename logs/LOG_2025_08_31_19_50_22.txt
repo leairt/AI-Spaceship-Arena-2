@@ -1,0 +1,207 @@
+INFO: Starting simulation ...
+INFO: 
+Round 1 / 10
+In state
+0 B _ 0
+_ _ _ _
+A _ _ _
+0 _ _ 0
+agent A chose action ((2, 0), (2, 3)) from actions [((2, 0), (1, 0)), ((2, 0), (2, 3)), ((2, 0), (2, 1)), ((2, 0), (2, 0))]
+Think time was 0.06 seconds.
+
+INFO: 
+Round 1 / 10
+In state
+0 B _ 0
+_ _ _ _
+a a a A
+0 _ _ 0
+agent B chose action ((0, 1), (3, 1)) from actions [((0, 1), (0, 2)), ((0, 1), (3, 1)), ((0, 1), (1, 1)), ((0, 1), (0, 1))]
+Think time was 0.58 seconds.
+
+INFO: 
+Round 2 / 10
+In state
+0 b _ 0
+_ b _ _
+a b a A
+0 B _ 0
+agent A chose action ((2, 3), (1, 3)) from actions [((2, 3), (1, 3)), ((2, 3), (2, 0)), ((2, 3), (2, 2)), ((2, 3), (2, 3))]
+Think time was 0.06 seconds.
+
+INFO: 
+Round 2 / 10
+In state
+0 b _ 0
+_ b _ A
+a b a a
+0 B _ 0
+agent B chose action ((3, 1), (0, 1)) from actions [((3, 1), (0, 1)), ((3, 1), (3, 2)), ((3, 1), (2, 1)), ((3, 1), (3, 1))]
+Think time was 0.57 seconds.
+
+INFO: 
+Round 3 / 10
+In state
+0 B _ 0
+_ b _ A
+a b a a
+0 b _ 0
+agent A chose action ((1, 3), (1, 2)) from actions [((1, 3), (2, 3)), ((1, 3), (1, 0)), ((1, 3), (1, 2)), ((1, 3), (1, 3))]
+Think time was 0.08 seconds.
+
+INFO: 
+Round 3 / 10
+In state
+0 B _ 0
+_ b A a
+a b a a
+0 b _ 0
+agent B chose action ((0, 1), (0, 2)) from actions [((0, 1), (0, 2)), ((0, 1), (3, 1)), ((0, 1), (1, 1)), ((0, 1), (0, 1))]
+Think time was 0.58 seconds.
+
+INFO: 
+Round 4 / 10
+In state
+0 b B 0
+_ b A a
+a b a a
+0 b _ 0
+agent A chose action ((1, 2), (1, 1)) from actions [((1, 2), (1, 3)), ((1, 2), (3, 2)), ((1, 2), (1, 0)), ((1, 2), (2, 2)), ((1, 2), (1, 1)), ((1, 2), (1, 2))]
+Think time was 0.07 seconds.
+
+INFO: 
+Round 4 / 10
+In state
+0 b B 0
+_ A a a
+a b a a
+0 b _ 0
+agent B chose action ((0, 2), (3, 2)) from actions [((0, 2), (3, 2)), ((0, 2), (0, 1)), ((0, 2), (1, 2)), ((0, 2), (0, 2))]
+Think time was 0.57 seconds.
+
+INFO: 
+Round 5 / 10
+In state
+0 b b 0
+_ A b a
+a b b a
+0 b B 0
+agent A chose action ((1, 1), (3, 1)) from actions [((1, 1), (0, 1)), ((1, 1), (1, 3)), ((1, 1), (3, 1)), ((1, 1), (1, 0)), ((1, 1), (1, 2)), ((1, 1), (2, 1)), ((1, 1), (1, 1))]
+Think time was 0.07 seconds.
+
+INFO: 
+Round 5 / 10
+In state
+0 b b 0
+_ a b a
+a a b a
+0 A B 0
+agent B chose action ((3, 2), (2, 2)) from actions [((3, 2), (0, 2)), ((3, 2), (2, 2)), ((3, 2), (3, 2))]
+Think time was 0.56 seconds.
+
+INFO: 
+Round 6 / 10
+In state
+0 b b 0
+_ a b a
+a a B a
+0 A b 0
+agent A chose action ((3, 1), (3, 2)) from actions [((3, 1), (0, 1)), ((3, 1), (3, 2)), ((3, 1), (2, 1)), ((3, 1), (3, 1))]
+Think time was 0.08 seconds.
+
+INFO: 
+Round 6 / 10
+In state
+0 b b 0
+_ a b a
+a a B a
+0 a A 0
+agent B chose action ((2, 2), (2, 2)) from actions [((2, 2), (0, 2)), ((2, 2), (2, 3)), ((2, 2), (2, 0)), ((2, 2), (1, 2)), ((2, 2), (2, 1)), ((2, 2), (2, 2))]
+Think time was 0.57 seconds.
+
+INFO: 
+Round 7 / 10
+In state
+0 b b 0
+_ a b a
+a a B a
+0 a A 0
+agent A chose action ((3, 2), (3, 2)) from actions [((3, 2), (3, 1)), ((3, 2), (3, 2))]
+Think time was 0.02 seconds.
+
+INFO: 
+Round 7 / 10
+In state
+0 b b 0
+_ a b a
+a a B a
+0 a A 0
+agent B chose action ((2, 2), (2, 2)) from actions [((2, 2), (0, 2)), ((2, 2), (2, 3)), ((2, 2), (2, 0)), ((2, 2), (1, 2)), ((2, 2), (2, 1)), ((2, 2), (2, 2))]
+Think time was 0.58 seconds.
+
+INFO: 
+Round 8 / 10
+In state
+0 b b 0
+_ a b a
+a a B a
+0 a A 0
+agent A chose action ((3, 2), (3, 2)) from actions [((3, 2), (3, 1)), ((3, 2), (3, 2))]
+Think time was 0.02 seconds.
+
+INFO: 
+Round 8 / 10
+In state
+0 b b 0
+_ a b a
+a a B a
+0 a A 0
+agent B chose action ((2, 2), (2, 2)) from actions [((2, 2), (0, 2)), ((2, 2), (2, 3)), ((2, 2), (2, 0)), ((2, 2), (1, 2)), ((2, 2), (2, 1)), ((2, 2), (2, 2))]
+Think time was 0.55 seconds.
+
+INFO: 
+Round 9 / 10
+In state
+0 b b 0
+_ a b a
+a a B a
+0 a A 0
+agent A chose action ((3, 2), (3, 1)) from actions [((3, 2), (3, 1)), ((3, 2), (3, 2))]
+Think time was 0.00 seconds.
+
+INFO: 
+Round 9 / 10
+In state
+0 b b 0
+_ a b a
+a a B a
+0 A a 0
+agent B chose action ((2, 2), (2, 3)) from actions [((2, 2), (0, 2)), ((2, 2), (2, 3)), ((2, 2), (3, 2)), ((2, 2), (2, 0)), ((2, 2), (1, 2)), ((2, 2), (2, 1)), ((2, 2), (2, 2))]
+Think time was 0.51 seconds.
+
+INFO: 
+Round 10 / 10
+In state
+0 b b 0
+_ a b a
+a a b B
+0 A a 0
+agent A chose action ((3, 1), (0, 1)) from actions [((3, 1), (0, 1)), ((3, 1), (3, 2)), ((3, 1), (2, 1)), ((3, 1), (3, 1))]
+Think time was 0.00 seconds.
+
+INFO: 
+Round 10 / 10
+In state
+0 A b 0
+_ a b a
+a a b B
+0 a a 0
+agent B chose action ((2, 3), (2, 0)) from actions [((2, 3), (1, 3)), ((2, 3), (2, 0)), ((2, 3), (2, 2)), ((2, 3), (2, 3))]
+Think time was 0.50 seconds.
+
+INFO: 
+Final state
+0 A b 0
+_ a b a
+B b b b
+0 a a 0

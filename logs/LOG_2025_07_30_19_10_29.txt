@@ -1,0 +1,60 @@
+INFO: Starting simulation ...
+INFO: 
+Round 1 / 3
+In state
+_ _ _ _ _ _ _ _ _ _ A B
+_ _ _ _ _ _ _ _ _ _ 0 0
+_ _ _ _ _ _ _ _ _ _ 0 0
+agent A chose action ((0, 10), (0, 10)) from actions [((0, 10), (0, 0)), ((0, 10), (0, 9)), ((0, 10), (0, 10))]
+Think time was 0.01 seconds.
+
+INFO: 
+Round 1 / 3
+In state
+_ _ _ _ _ _ _ _ _ _ A B
+_ _ _ _ _ _ _ _ _ _ 0 0
+_ _ _ _ _ _ _ _ _ _ 0 0
+agent B chose action ((0, 11), (0, 11)) from actions [((0, 11), (0, 11))]
+Think time was 0.50 seconds.
+
+INFO: 
+Round 2 / 3
+In state
+_ _ _ _ _ _ _ _ _ _ A B
+_ _ _ _ _ _ _ _ _ _ 0 0
+_ _ _ _ _ _ _ _ _ _ 0 0
+agent A chose action ((0, 10), (0, 10)) from actions [((0, 10), (0, 0)), ((0, 10), (0, 9)), ((0, 10), (0, 10))]
+Think time was 0.00 seconds.
+
+INFO: 
+Round 2 / 3
+In state
+_ _ _ _ _ _ _ _ _ _ A B
+_ _ _ _ _ _ _ _ _ _ 0 0
+_ _ _ _ _ _ _ _ _ _ 0 0
+agent B chose action ((0, 11), (0, 11)) from actions [((0, 11), (0, 11))]
+Think time was 0.50 seconds.
+
+INFO: 
+Round 3 / 3
+In state
+_ _ _ _ _ _ _ _ _ _ A B
+_ _ _ _ _ _ _ _ _ _ 0 0
+_ _ _ _ _ _ _ _ _ _ 0 0
+agent A chose action ((0, 10), (0, 10)) from actions [((0, 10), (0, 0)), ((0, 10), (0, 9)), ((0, 10), (0, 10))]
+Think time was 0.00 seconds.
+
+INFO: 
+Round 3 / 3
+In state
+_ _ _ _ _ _ _ _ _ _ A B
+_ _ _ _ _ _ _ _ _ _ 0 0
+_ _ _ _ _ _ _ _ _ _ 0 0
+agent B chose action ((0, 11), (0, 11)) from actions [((0, 11), (0, 11))]
+Think time was 0.50 seconds.
+
+INFO: 
+Final state
+_ _ _ _ _ _ _ _ _ _ A B
+_ _ _ _ _ _ _ _ _ _ 0 0
+_ _ _ _ _ _ _ _ _ _ 0 0
