@@ -134,10 +134,6 @@ dmypy.json
 Thumbs.db
 desktop.ini
 
-# Game-specific files
-logs/
-screenshots/
-
 # Temporary files
 *.tmp
 *.bak
