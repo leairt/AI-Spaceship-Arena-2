@@ -6,7 +6,11 @@ A competitive multi-agent game where AI-controlled spaceships compete to claim t
 
 AI Spaceship Arena is a turn-based strategy game where multiple spaceships (agents) compete to dominate the playing field. Each agent uses different AI algorithms to make strategic decisions about movement and territory control.
 
-## Gameplay
+<div align="center">
+<img src="screenshots/intro.png"></img>
+</div>
+
+## Example
 <div align="center">
 <img src="screenshots/gameplay.gif"></img>
 </div>
