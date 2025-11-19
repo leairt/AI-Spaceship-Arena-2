@@ -93,9 +93,9 @@ An optimized version of Minimax that uses alpha-beta pruning to eliminate branch
 ## Map Format
 
 Maps are text files where:
-- `.` - Free tile (navigable space)
-- `#` - Abyss tile (obstacle)
-- Letters (A-Z) - Starting positions for spaceships
+- `_` - Free tile (navigable space)
+- `O` - Abyss tile (obstacle)
+- Letters (A-D) - Starting positions for spaceships
 
 ## Logging
 
