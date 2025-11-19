@@ -134,9 +134,9 @@ dmypy.json
 Thumbs.db
 desktop.ini
 
-# Game logs (optional - uncomment if you don't want to track logs)
-# logs/
-# *.txt
+# Game-specific files
+logs/
+screenshots/
 
 # Temporary files
 *.tmp
